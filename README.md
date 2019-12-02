@@ -4,9 +4,7 @@
 
 ### Installing as a goenv plugin
 
-Make sure you have pyenv 0.2.0 or later, then run:
-
-    git clone https://github.com/kadaan/goenv-goget-rehash.git $(goenv root)/plugins/goenv-goget-rehash
+git clone https://github.com/kadaan/goenv-goget-rehash.git $(goenv root)/plugins/goenv-goget-rehash
 
 ## Usage
 
